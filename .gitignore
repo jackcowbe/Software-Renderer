@@ -1,0 +1,19 @@
+# MSVC build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.user
+
+# Graphics outputs
+output.tga
+output.bmp
+barycentric_test_image.ppm
+text_image_01.ppm
+text_image_02.ppm
+
+# IDE files
+.vs/
+.vscode/
+build/
